@@ -2,8 +2,8 @@ class Clonerepo < Formula
   desc "Simple script for cloning repos with additional options"
   homepage "https://github.com/joeygrasso/cloneRepo"
 
-  version "1.0.1"
-  sha256 "308a201f9c98c02828fd3b9077a3977be678970fa18751e51b04b5afc73958d8"
+  version "1.0.2"
+  sha256 "9e8396a70216c14f7d749588d49d57902292f2958704779ed782e41390f96d28"
 
   url "https://github.com/joeygrasso/cloneRepo/archive/refs/tags/v#{version}.tar.gz"
 
