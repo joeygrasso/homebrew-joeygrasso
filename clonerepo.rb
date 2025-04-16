@@ -3,7 +3,7 @@ class Clonerepo < Formula
   homepage "https://github.com/joeygrasso/cloneRepo"
 
   version "1.0.0"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  sha256 "ee0f4dc5bc4bbc8241a8067ffd4cd9495448adb121bbf1d049c0e394f872b0c3"
 
   url "https://github.com/joeygrasso/cloneRepo/archive/refs/tags/v#{version}.tar.gz"
 
