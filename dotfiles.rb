@@ -1,8 +1,8 @@
 class Dotfiles < Formula
   desc "Set up a machine from a dotfiles repo and keep it linked"
   homepage "https://github.com/joeygrasso/dotfiles-cli"
-  url "https://github.com/joeygrasso/dotfiles-cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "2af4b9f0046f7cca48dad0a7dc1d42cb1b1fdfc6c61c0dd4cc26c511b2585be2"
+  url "https://github.com/joeygrasso/dotfiles-cli/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "a3db8ddce8b3cf25817dd6c6582df0698adc3f577b830ba97879bf5c50d1c3f0"
   head "https://github.com/joeygrasso/dotfiles-cli.git", branch: "main"
 
   depends_on "git"
